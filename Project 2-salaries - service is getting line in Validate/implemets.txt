@@ -1,0 +1,8 @@
+vera með timeclasa sem skilar tíma (mm/yyyy) fyrir laun
+
+taka það í stringstream (str >> yyyy >> mm eða eitthvað) þegar verið er að leita að skrám (t.d. eftir ári) og if yyyy = yyyy þá cout << employee
+
+svo þarf að græja heildartekju-reiknivél sem birtir nafn einstaklings, leggur saman laun
+"if name == jón, þá laun +="
+og líka fyrir hæstu launin
+"if name eitthvað 12 mán <= þá daddara"

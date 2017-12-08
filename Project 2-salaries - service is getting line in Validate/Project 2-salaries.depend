@@ -1,0 +1,608 @@
+# depslib dependency file v1.0
+1512482334 source:c:\users\vilhjalmur\dropbox\skólaskjöl\verklegt námskeið\verkefni vika 1\project 2-salaries\src\subui.cpp
+	"SubUI.h"
+
+1512482334 c:\users\vilhjalmur\dropbox\skólaskjöl\verklegt námskeið\verkefni vika 1\project 2-salaries\include\subui.h
+
+1512482764 source:c:\users\vilhjalmur\dropbox\skólaskjöl\verklegt námskeið\verkefni vika 1\project 2-salaries\main.cpp
+	<iostream>
+	"MainUI.h"
+
+1512482800 c:\users\vilhjalmur\dropbox\skólaskjöl\verklegt námskeið\verkefni vika 1\project 2-salaries\include\mainui.h
+	"SubUI.h"
+	<iostream>
+
+1512482919 source:c:\users\vilhjalmur\dropbox\skólaskjöl\verklegt námskeið\verkefni vika 1\project 2-salaries\src\mainui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	"SubUI.h"
+
+1512482764 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\main.cpp
+	<iostream>
+	"MainUI.h"
+
+1512482800 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\mainui.h
+	"SubUI.h"
+	<iostream>
+
+1512482334 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\subui.h
+
+1512592494 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\src\ui\mainui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	<cstdlib>
+	<stdlib.h>
+	"InvalidNumberException.h"
+	"GetTime.h"
+	"EmployeeService.h"
+
+1512638192 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\src\ui\subui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	"InvalidNumberException.h"
+	<EmployeeService.h>
+	<GetTime.h>
+	<sstream>
+
+1512554065 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\ui\subui.h
+	"InvalidNumberException.h"
+	"InvalidNameException.h"
+	"InvalidSSNException.h"
+
+1512513421 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\ui\mainui.h
+	"SubUI.h"
+	<iostream>
+	"InvalidNumberException.h"
+
+1512482764 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\main.cpp
+	<iostream>
+	"MainUI.h"
+
+1512592494 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\src\ui\mainui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	<cstdlib>
+	<stdlib.h>
+	"InvalidNumberException.h"
+	"GetTime.h"
+	"EmployeeService.h"
+
+1512513421 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\ui\mainui.h
+	"SubUI.h"
+	<iostream>
+	"InvalidNumberException.h"
+
+1512554065 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\ui\subui.h
+	"InvalidNumberException.h"
+	"InvalidNameException.h"
+	"InvalidSSNException.h"
+
+1512597679 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\src\ui\subui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	"InvalidNumberException.h"
+	<EmployeeService.h>
+	<GetTime.h>
+	<sstream>
+
+1512509808 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\src\exceptions\invalidnumberexeption.cpp
+	"InvalidNumberExeption.h"
+	<string>
+	<iostream>
+
+1512508497 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\exceptions\invalidnumberexeption.h
+	<string>
+	<iostream>
+
+1512597873 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\src\models\employee.cpp
+	"Employee.h"
+	<string>
+
+1512603343 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\models\employee.h
+	<string>
+
+1512512639 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\exceptions\invalidnameexeption.h
+	<string>
+	<iostream>
+
+1512513322 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\exceptions\invalidnumberexception.h
+	<string>
+
+1512591011 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\src\exceptions\invalidnumberexception.cpp
+	"InvalidNumberException.h"
+
+1512513542 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\exceptions\invalidnameexception.h
+	<string>
+
+1512551186 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\src\exceptions\invalidnameexception.cpp
+	"InvalidNameException.h"
+
+1512517041 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\src\exceptions\invalidssnexception.cpp
+	"InvalidSSNException.h"
+
+1512517041 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\exceptions\invalidssnexception.h
+	<string>
+
+1512513322 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\exceptions\invalidnumberexception.h
+	<string>
+
+1512513542 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\exceptions\invalidnameexception.h
+	<string>
+
+1512517041 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\exceptions\invalidssnexception.h
+	<string>
+
+1512591011 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\src\exceptions\invalidnumberexception.cpp
+	"InvalidNumberException.h"
+
+1512517041 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\src\exceptions\invalidssnexception.cpp
+	"InvalidSSNException.h"
+
+1512597873 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\src\models\employee.cpp
+	"Employee.h"
+	<string>
+
+1512603343 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\models\employee.h
+	<string>
+
+1512551186 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\src\exceptions\invalidnameexception.cpp
+	"InvalidNameException.h"
+
+1512596713 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\src\exceptions\invalidyearexception.cpp
+	"InvalidYearException.h"
+
+1512559023 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\exceptions\invalidyearexception.h
+	<string>
+
+1512563210 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\src\models\gettime.cpp
+	"GetTime.h"
+
+1512563154 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\models\gettime.h
+	<ctime>
+
+1512638192 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\src\services\employeeservice.cpp
+	"EmployeeService.h"
+	<string>
+	<sstream>
+	<GetTime.h>
+
+1512638192 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\services\employeeservice.h
+	<string>
+	<iostream>
+	"InvalidNameException.h"
+	"InvalidSSNException.h"
+	"InvalidYearException.h"
+	"InvalidNumberException.h"
+	"Employee.h"
+
+1512571655 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\src\services\gettime.cpp
+	"GetTime.h"
+	<ctime>
+
+1512571641 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries\include\services\gettime.h
+	<ctime>
+	<string>
+	<sstream>
+	<iostream>
+
+1512596713 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\src\exceptions\invalidyearexception.cpp
+	"InvalidYearException.h"
+
+1512559023 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\exceptions\invalidyearexception.h
+	<string>
+
+1512597840 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\src\services\employeeservice.cpp
+	"EmployeeService.h"
+	<string>
+	<sstream>
+	<GetTime.h>
+
+1512603668 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\services\employeeservice.h
+	<string>
+	<iostream>
+	"InvalidNameException.h"
+	"InvalidSSNException.h"
+	"InvalidYearException.h"
+	"InvalidNumberException.h"
+	"Employee.h"
+
+1512571655 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\src\services\gettime.cpp
+	"GetTime.h"
+	<ctime>
+
+1512571641 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries\include\services\gettime.h
+	<ctime>
+	<string>
+	<sstream>
+	<iostream>
+
+1512482764 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\main.cpp
+	<iostream>
+	"MainUI.h"
+
+1512513421 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\ui\mainui.h
+	"SubUI.h"
+	<iostream>
+	"InvalidNumberException.h"
+
+1512736238 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\ui\subui.h
+	"InvalidNumberException.h"
+	"InvalidNameException.h"
+	"InvalidSSNException.h"
+	<conio.h>
+
+1512513322 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidnumberexception.h
+	<string>
+
+1512677027 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidnameexception.h
+	<string>
+
+1512517041 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidssnexception.h
+	<string>
+
+1512677523 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidnameexception.cpp
+	"InvalidNameException.h"
+
+1512591011 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidnumberexception.cpp
+	"InvalidNumberException.h"
+
+1512517041 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidssnexception.cpp
+	"InvalidSSNException.h"
+
+1512651413 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidyearexception.cpp
+	"InvalidYearException.h"
+
+1512559023 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidyearexception.h
+	<string>
+
+1512737595 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\models\employee.cpp
+	"Employee.h"
+
+1512737589 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\models\employee.h
+	<string>
+	<Salary.h>
+	<sstream>
+
+1512739500 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\services\employeeservice.cpp
+	"EmployeeService.h"
+	"EmployeeRepo.h"
+	<string>
+	<sstream>
+	<GetTime.h>
+
+1512734331 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\services\employeeservice.h
+	<string>
+	<iostream>
+	"InvalidNameException.h"
+	"InvalidSSNException.h"
+	"InvalidYearException.h"
+	"InvalidNumberException.h"
+	"InvalidMonthException.h"
+	"InvalidSalaryException.h"
+	"Salary.h"
+	"Employee.h"
+
+1512660538 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\services\gettime.h
+	<ctime>
+	<string>
+	<sstream>
+	<iostream>
+
+1512660624 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\services\gettime.cpp
+	"GetTime.h"
+	<ctime>
+
+1512654905 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\ui\mainui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	<cstdlib>
+	<stdlib.h>
+	"InvalidNumberException.h"
+	"GetTime.h"
+	"EmployeeService.h"
+
+1512736292 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\ui\subui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	"InvalidNumberException.h"
+	<EmployeeService.h>
+	<GetTime.h>
+
+1512738890 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\repositories\employeerepo.cpp
+	"EmployeeRepo.h"
+
+1512738705 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\repositories\employeerepo.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<Employee.h>
+	<Salary.h>
+
+1512651403 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidmonthexception.cpp
+	"InvalidMonthException.h"
+
+1512651395 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidmonthexception.h
+	<string>
+
+1512482764 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\main.cpp
+	<iostream>
+	"MainUI.h"
+
+1512513421 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\ui\mainui.h
+	"SubUI.h"
+	<iostream>
+	"InvalidNumberException.h"
+
+1512554065 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\ui\subui.h
+	"InvalidNumberException.h"
+	"InvalidNameException.h"
+	"InvalidSSNException.h"
+
+1512513322 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidnumberexception.h
+	<string>
+
+1512677027 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidnameexception.h
+	<string>
+
+1512517041 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidssnexception.h
+	<string>
+
+1512651403 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidmonthexception.cpp
+	"InvalidMonthException.h"
+
+1512651395 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidmonthexception.h
+	<string>
+
+1512677523 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidnameexception.cpp
+	"InvalidNameException.h"
+
+1512591011 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidnumberexception.cpp
+	"InvalidNumberException.h"
+
+1512517041 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidssnexception.cpp
+	"InvalidSSNException.h"
+
+1512651413 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidyearexception.cpp
+	"InvalidYearException.h"
+
+1512559023 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidyearexception.h
+	<string>
+
+1512692065 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\models\employee.cpp
+	"Employee.h"
+
+1512692032 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\models\employee.h
+	<string>
+	<Salary.h>
+	<sstream>
+
+1512693694 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\repositories\employeerepo.cpp
+	"EmployeeRepo.h"
+
+1512693877 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\repositories\employeerepo.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<Employee.h>
+
+1512693633 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\services\employeeservice.cpp
+	"EmployeeService.h"
+	"EmployeeRepo.h"
+	<string>
+	<sstream>
+	<GetTime.h>
+
+1512693697 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\services\employeeservice.h
+	<string>
+	<iostream>
+	"InvalidNameException.h"
+	"InvalidSSNException.h"
+	"InvalidYearException.h"
+	"InvalidNumberException.h"
+	"InvalidMonthException.h"
+	"InvalidSalaryException.h"
+	"Salary.h"
+	"Employee.h"
+
+1512660538 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\services\gettime.h
+	<ctime>
+	<string>
+	<sstream>
+	<iostream>
+
+1512660624 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\services\gettime.cpp
+	"GetTime.h"
+	<ctime>
+
+1512654905 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\ui\mainui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	<cstdlib>
+	<stdlib.h>
+	"InvalidNumberException.h"
+	"GetTime.h"
+	"EmployeeService.h"
+
+1512691192 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\ui\subui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	"InvalidNumberException.h"
+	<EmployeeService.h>
+	<GetTime.h>
+
+1512680053 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidsalaryexception.cpp
+	"InvalidSalaryException.h"
+
+1512680082 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidsalaryexception.h
+	<string>
+
+1512692206 source:c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\models\salary.cpp
+	"Salary.h"
+
+1512692168 c:\users\villi\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\models\salary.h
+	<vector>
+	<string>
+
+1512680053 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidsalaryexception.cpp
+	"InvalidSalaryException.h"
+
+1512680082 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\exceptions\invalidsalaryexception.h
+	<string>
+
+1512737672 source:c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\src\models\salary.cpp
+	"Salary.h"
+
+1512736903 c:\users\vilhjalmur\dropbox\skólagit\vika2\project 2-salaries - service is getting line in validate\include\models\salary.h
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+
+1512482764 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\main.cpp
+	<iostream>
+	"MainUI.h"
+
+1512751177 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\ui\mainui.h
+	"SubUI.h"
+	<iostream>
+	"InvalidNumberException.h"
+	"EmployeeService.h"
+	<vector>
+
+1512754922 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\ui\subui.h
+	"InvalidNumberException.h"
+	"InvalidNameException.h"
+	"InvalidSSNException.h"
+	<conio.h>
+	<vector>
+	"EmployeeService.h"
+	"Employee.h"
+
+1512513322 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\exceptions\invalidnumberexception.h
+	<string>
+
+1512677028 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\exceptions\invalidnameexception.h
+	<string>
+
+1512517042 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\exceptions\invalidssnexception.h
+	<string>
+
+1512651404 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\exceptions\invalidmonthexception.cpp
+	"InvalidMonthException.h"
+
+1512651396 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\exceptions\invalidmonthexception.h
+	<string>
+
+1512677524 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\exceptions\invalidnameexception.cpp
+	"InvalidNameException.h"
+
+1512591012 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\exceptions\invalidnumberexception.cpp
+	"InvalidNumberException.h"
+
+1512680054 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\exceptions\invalidsalaryexception.cpp
+	"InvalidSalaryException.h"
+
+1512680082 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\exceptions\invalidsalaryexception.h
+	<string>
+
+1512517042 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\exceptions\invalidssnexception.cpp
+	"InvalidSSNException.h"
+
+1512651414 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\exceptions\invalidyearexception.cpp
+	"InvalidYearException.h"
+
+1512559024 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\exceptions\invalidyearexception.h
+	<string>
+
+1512737674 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\models\salary.cpp
+	"Salary.h"
+
+1512740439 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\models\salary.h
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<vector>
+
+1512765293 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\repositories\employeerepo.cpp
+	"EmployeeRepo.h"
+
+1512765634 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\repositories\employeerepo.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<Employee.h>
+	<Salary.h>
+
+1512765634 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\models\employee.h
+	<string>
+	<sstream>
+	<iostream>
+
+1512765125 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\services\employeeservice.cpp
+	"EmployeeService.h"
+	"EmployeeRepo.h"
+	<string>
+	<sstream>
+	<GetTime.h>
+
+1512764179 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\services\employeeservice.h
+	<string>
+	<iostream>
+	"InvalidNameException.h"
+	"InvalidSSNException.h"
+	"InvalidYearException.h"
+	"InvalidNumberException.h"
+	"InvalidMonthException.h"
+	"InvalidSalaryException.h"
+	"Employee.h"
+	"EmployeeRepo.h"
+
+1512660540 c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\include\services\gettime.h
+	<ctime>
+	<string>
+	<sstream>
+	<iostream>
+
+1512660626 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\services\gettime.cpp
+	"GetTime.h"
+	<ctime>
+
+1512745094 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\ui\mainui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	<cstdlib>
+	<stdlib.h>
+	"InvalidNumberException.h"
+	"GetTime.h"
+	"EmployeeService.h"
+	"Employee.h"
+
+1512765336 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\ui\subui.cpp
+	"MainUI.h"
+	"SubUI.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	"InvalidNumberException.h"
+	<EmployeeService.h>
+	<GetTime.h>
+
+1512754313 source:c:\users\notandi\desktop\3viknaafangi\litil skil 3\project 2-salaries - service is getting line in validate\src\models\employee.cpp
+	"Employee.h"
+
