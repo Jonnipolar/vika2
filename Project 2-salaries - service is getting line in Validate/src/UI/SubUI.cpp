@@ -221,9 +221,9 @@ void SubUI::v_lookup_year_and_SSN_UI()
 void SubUI::v_lookup_highest_UI()
 {
     system("CLS");
-    cout << "===================================================================\n";
-    cout << "MoneyManager3500: Look up record by SSN (kennitala) and year.\n";
-    cout << "==================================================================\n";
+    cout << "==========================================================================\n";
+    cout << "MoneyManager3500: Look up record for highest payed employee for given year\n";
+    cout << "==========================================================================\n";
     EmployeeService employeeService;
     ///Year
     bool chose_current_year = false;
