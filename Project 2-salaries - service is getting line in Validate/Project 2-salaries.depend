@@ -661,13 +661,12 @@
 	<sstream>
 	<iostream>
 
-1512765634 c:\users\notandi\desktop\3viknaafangi\vika2\project 2-salaries - service is getting line in validate\include\repositories\employeerepo.h
+1512829205 c:\users\notandi\desktop\3viknaafangi\vika2\project 2-salaries - service is getting line in validate\include\repositories\employeerepo.h
 	<iostream>
 	<fstream>
 	<istream>
 	<vector>
 	<Employee.h>
-	<Salary.h>
 
 1512651404 source:c:\users\notandi\desktop\3viknaafangi\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidmonthexception.cpp
 	"InvalidMonthException.h"
@@ -687,7 +686,7 @@
 1512651414 source:c:\users\notandi\desktop\3viknaafangi\vika2\project 2-salaries - service is getting line in validate\src\exceptions\invalidyearexception.cpp
 	"InvalidYearException.h"
 
-1512765634 source:c:\users\notandi\desktop\3viknaafangi\vika2\project 2-salaries - service is getting line in validate\src\models\employee.cpp
+1512829205 source:c:\users\notandi\desktop\3viknaafangi\vika2\project 2-salaries - service is getting line in validate\src\models\employee.cpp
 	"Employee.h"
 
 1512765634 source:c:\users\notandi\desktop\3viknaafangi\vika2\project 2-salaries - service is getting line in validate\src\repositories\employeerepo.cpp
@@ -720,7 +719,7 @@
 	"EmployeeService.h"
 	"Employee.h"
 
-1512765634 source:c:\users\notandi\desktop\3viknaafangi\vika2\project 2-salaries - service is getting line in validate\src\ui\subui.cpp
+1512828889 source:c:\users\notandi\desktop\3viknaafangi\vika2\project 2-salaries - service is getting line in validate\src\ui\subui.cpp
 	"MainUI.h"
 	"SubUI.h"
 	<iostream>

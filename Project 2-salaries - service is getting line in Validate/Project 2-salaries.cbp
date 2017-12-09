@@ -50,7 +50,6 @@
 		<Unit filename="include/Exceptions/InvalidSalaryException.h" />
 		<Unit filename="include/Exceptions/InvalidYearException.h" />
 		<Unit filename="include/Models/Employee.h" />
-		<Unit filename="include/Models/Salary.h" />
 		<Unit filename="include/Repositories/EmployeeRepo.h" />
 		<Unit filename="include/Services/EmployeeService.h" />
 		<Unit filename="include/Services/GetTime.h" />
@@ -64,7 +63,6 @@
 		<Unit filename="src/Exceptions/InvalidSalaryException.cpp" />
 		<Unit filename="src/Exceptions/InvalidYearException.cpp" />
 		<Unit filename="src/Models/Employee.cpp" />
-		<Unit filename="src/Models/Salary.cpp" />
 		<Unit filename="src/Repositories/EmployeeRepo.cpp" />
 		<Unit filename="src/Services/EmployeeService.cpp" />
 		<Unit filename="src/Services/GetTime.cpp" />

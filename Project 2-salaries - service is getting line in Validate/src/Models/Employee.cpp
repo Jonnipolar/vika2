@@ -1,6 +1,5 @@
 #include "Employee.h"
-//#include "Salary.h"
-//#include <vector>
+
 
 
 //using namespace std;

@@ -5,7 +5,6 @@
 #include <istream>
 #include <vector>
 #include <Employee.h>
-#include <Salary.h>
 
 class EmployeeRepo
 {
